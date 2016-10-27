@@ -6,10 +6,10 @@ from tweepy import Stream
 #import tweepy
 
 #Variables that contains the user credentials to access Twitter API 
-access_token = "760153922136748033-4zEqSejyo6o1TvYQIs3dSi3Hdzmx93x"
-access_token_secret = "vkzof7X7wblKeqRb6q4sUIS8UsQcwdNrmqYHm72uswUhi"
-consumer_key = "Dsyd03Mnu5PYbmEj9jYPEuzcJ"
-consumer_secret = "mYiBzM1N5lfKF17HyEZ5OaKIpFYmq1RQDiXIjrx41AdHc2etT1"
+access_token = "code"
+access_token_secret = "code"
+consumer_key = "code"
+consumer_secret = "code"
 
 class StdOutListener(StreamListener):
     
